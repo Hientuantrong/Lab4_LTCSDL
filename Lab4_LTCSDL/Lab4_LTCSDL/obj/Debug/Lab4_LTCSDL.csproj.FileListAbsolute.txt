@@ -1,0 +1,10 @@
+D:\Lab4_LTCSDL\Lab4_LTCSDL\bin\Debug\Lab4_LTCSDL.exe.config
+D:\Lab4_LTCSDL\Lab4_LTCSDL\bin\Debug\Lab4_LTCSDL.exe
+D:\Lab4_LTCSDL\Lab4_LTCSDL\bin\Debug\Lab4_LTCSDL.pdb
+D:\Lab4_LTCSDL\Lab4_LTCSDL\obj\Debug\Lab4_LTCSDL.csproj.AssemblyReference.cache
+D:\Lab4_LTCSDL\Lab4_LTCSDL\obj\Debug\Lab4_LTCSDL.frmSinhVien.resources
+D:\Lab4_LTCSDL\Lab4_LTCSDL\obj\Debug\Lab4_LTCSDL.Properties.Resources.resources
+D:\Lab4_LTCSDL\Lab4_LTCSDL\obj\Debug\Lab4_LTCSDL.csproj.GenerateResource.cache
+D:\Lab4_LTCSDL\Lab4_LTCSDL\obj\Debug\Lab4_LTCSDL.csproj.CoreCompileInputs.cache
+D:\Lab4_LTCSDL\Lab4_LTCSDL\obj\Debug\Lab4_LTCSDL.exe
+D:\Lab4_LTCSDL\Lab4_LTCSDL\obj\Debug\Lab4_LTCSDL.pdb
